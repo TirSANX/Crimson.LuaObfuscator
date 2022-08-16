@@ -1,0 +1,3 @@
+after u put the source here copy ur file location above and put it in my obfuscator
+
+and after u press and enter to obfuscate come back here to copy those obfuscated code in that lua file
