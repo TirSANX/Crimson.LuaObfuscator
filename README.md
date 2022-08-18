@@ -3,7 +3,7 @@ CrimsonX Obfuscator created by c++
 
 <br/>
 
-& Premium Free Obfuscator at https://discord.gg/ARAxsAJGcE
+& Premium Free Obfuscator at https://discord.gg/H2tfDfmH8k
 
 <br/>
 
